@@ -2,7 +2,7 @@
 Python Scripts that can map the internet or be modified to map a network
 
 # netpingmapper.py
-Must run with root privilages/n
+Must run with root privilages
 Requires: icmplib
 Maps the internet based upon pinging the IP Adresses
 
